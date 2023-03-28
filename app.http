@@ -1,0 +1,14 @@
+GET http://localhost:3000/players
+###
+
+POST http://localhost:3000/players
+###
+
+GET http://localhost:3000/palyers/1/
+###
+
+PUT http://localhost:3000/palyers/41/
+Content-Type: application/json
+###
+
+DELETE http://localhost:3000/palyers/41/
